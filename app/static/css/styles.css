@@ -1,0 +1,15 @@
+* {
+  font-family: monaco;
+}
+img {
+	height: 120px;
+	width: 120px;
+	border: lightgray solid 2px;
+	
+}
+.box {
+	display: inline-block;
+	height: 124px;
+	width: 124px;
+	border: black solid 1px;
+}
